@@ -1,0 +1,1 @@
+En el directorio _temp se guardan los archivos temporales.
