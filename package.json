@@ -2,7 +2,7 @@
   "name": "node-mongo-big-file-exercise",
   "version": "1.0.0",
   "main": "app.js",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "dev": "nodemon app.js"
   },
